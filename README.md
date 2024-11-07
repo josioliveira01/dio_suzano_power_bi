@@ -30,5 +30,5 @@ Este projeto visa desenvolver habilidades em visualização de dados no Power BI
 Durante o projeto, foram adquiridos conhecimentos valiosos em visualização de dados no Power BI. A criação de indicadores e a implementação de ações de botões elevaram o nível de aprendizado, tornando o projeto mais desafiador e enriquecedor. Adicionar elementos visuais no layout sem interferir na usabilidade foi um desafio importante, que trouxe uma camada adicional de valor ao projeto.
 
 ## Referências
-- Tutorial "Da pasta de trabalho do Excel para um relatório incrível no Power BI Desktop" disponível no [Microsoft Learn](https://learn.microsoft.com/pt-br/power-bi/create-reports/desktop-excel-stunning-report).
+- Tutorial "Da pasta de trabalho do Excel para um relatório incrível no Power BI Desktop" disponível no [Microsoft Learn]([https://learn.microsoft.com/pt-br/power-bi/create-reports/desktop-excel-stunning-report](https://learn.microsoft.com/pt-br/power-bi/visuals/power-bi-report-add-visualizations-i?tabs=powerbi-desktop)).
 - Material utilizado no bootcamp
