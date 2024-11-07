@@ -16,7 +16,8 @@ Este projeto visa desenvolver habilidades em visualização de dados no Power BI
 - Layout com objetos visuais bem definidos
 - Gráficos diversos e campos configurados para análise detalhada
 - Múltiplas páginas com navegação facilitada por botões
-
+  
+([Funcionalidades mp4](https://github.com/josioliveira01/dio_suzano_power_bi/blob/a0e6944017ff97c6fc014ffc86a72783cc83fb73/Forma%C3%A7%C3%A3o%20Power%20BI.mp4))
 ## Etapas de Criação do Relatório
 1. **Planejamento do Layout**: Estruturar as camadas e organizar os principais componentes visuais.
 2. **Configuração dos Botões de Navegação**: Criar botões de navegação para uma experiência interativa.
