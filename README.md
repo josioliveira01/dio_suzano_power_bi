@@ -3,7 +3,7 @@
 # Criando Um Relatório Gerencial de Vendas com Power BI
 Este projeto faz parte do bootcamp Suzano - Análise de Dados com Power BI, oferecido pela DIO, uma plataforma que conecta pessoas às empresas mais inovadoras. O objetivo é criar um relatório gerencial no Power BI com base nos dados de vendas da tabela "Finanças" disponibilizada pela Microsoft.
 
-([Desafio 2.pdf](https://github.com/josioliveira01/dio_suzano_power_bi/blob/d62c95c1995fb9fc89e2789008a95994547bab65/Desafio%202.pdf))
+:white_check_mark: Clique e explore o projeto ([Desafio 2.pdf](https://github.com/josioliveira01/dio_suzano_power_bi/blob/d62c95c1995fb9fc89e2789008a95994547bab65/Desafio%202.pdf))
 
 ## Objetivo do Projeto
 Este projeto visa desenvolver habilidades em visualização de dados no Power BI, com ênfase em storytelling para garantir o entendimento dos dados e possibilitar a tomada de decisões pelos stakeholders. O foco está na criação de um fluxo de informação claro e orientado à resolução de problemas de negócio.
@@ -17,7 +17,7 @@ Este projeto visa desenvolver habilidades em visualização de dados no Power BI
 - Gráficos diversos e campos configurados para análise detalhada
 - Múltiplas páginas com navegação facilitada por botões
   
-([Funcionalidades mp4](https://github.com/josioliveira01/dio_suzano_power_bi/blob/a0e6944017ff97c6fc014ffc86a72783cc83fb73/Forma%C3%A7%C3%A3o%20Power%20BI.mp4))
+:white_check_mark:Clique e veja os indicadores e botões ([Funcionalidades mp4](https://github.com/josioliveira01/dio_suzano_power_bi/blob/a0e6944017ff97c6fc014ffc86a72783cc83fb73/Forma%C3%A7%C3%A3o%20Power%20BI.mp4))
 ## Etapas de Criação do Relatório
 1. **Planejamento do Layout**: Estruturar as camadas e organizar os principais componentes visuais.
 2. **Configuração dos Botões de Navegação**: Criar botões de navegação para uma experiência interativa.
