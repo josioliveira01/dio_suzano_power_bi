@@ -40,4 +40,4 @@ ___
 - Tutorial "Da pasta de trabalho do Excel para um relatório incrível no Power BI Desktop" disponível no ([Microsoft Learn](https://learn.microsoft.com/pt-br/power-bi/visuals/power-bi-report-add-visualizations-i?tabs=powerbi-desktop)).
 - Material utilizado no bootcamp
 ___
-  
+![image](https://github.com/user-attachments/assets/fadb7102-dbf0-4ad2-b845-0b5708a00999)  ([Josi Oliveira](https://github.com/josioliveira01))
