@@ -3,7 +3,7 @@
 # Criando Um Relatório Gerencial de Vendas com Power BI
 Este projeto faz parte do bootcamp Suzano - Análise de Dados com Power BI, oferecido pela DIO, uma plataforma que conecta pessoas às empresas mais inovadoras. O objetivo é criar um relatório gerencial no Power BI com base nos dados de vendas da tabela "Finanças" disponibilizada pela Microsoft.
 
-![PDF do Projeto](Desafio 2.pdf)
+([Desafio 2.pdf](https://github.com/josioliveira01/dio_suzano_power_bi/blob/d62c95c1995fb9fc89e2789008a95994547bab65/Desafio%202.pdf))
 
 ## Objetivo do Projeto
 Este projeto visa desenvolver habilidades em visualização de dados no Power BI, com ênfase em storytelling para garantir o entendimento dos dados e possibilitar a tomada de decisões pelos stakeholders. O foco está na criação de um fluxo de informação claro e orientado à resolução de problemas de negócio.
